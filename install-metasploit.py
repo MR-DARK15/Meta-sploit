@@ -1,3 +1,8 @@
+#!/use/bin/python3.11.5
+# Copyright (C) 2016 The Android Open Source Project
+# Chanel Telegram: https://t.me/Cyber_Seven
+# ID Telegram: https://t.me/name_MR_DARK
+# MR - DARK
 from os import system
 from colorama import Fore
 from time import sleep
